@@ -1,8 +1,9 @@
 ---
 title: "PM566 Final Project"
 author: "Kim S"
-output: pdf_document
-always_allow_html: false
+output: 
+   pdf_document: default
+   html_document: FALSE
 ---
 
 This is my PM566 Final Project website.

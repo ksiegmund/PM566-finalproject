@@ -1,15 +1,15 @@
 ---
-title: "Teaching PM566"
+title: "Linking Report at Top"
 author: "Kim S"
 output: 
-    html_document:
-        toc: TRUE
-        toc_float: TRUE
+    html_document: 
+       toc: true
+       toc_float: true
 ---
 
 This is my PM566 Final Project website.
 
-Link to my pdf 
+Link to my pdf:[report](https://github.com/ksiegmund/PM566-finalproject/blob/main/report.pdf) [download](https://github.com/ksiegmund/PM566-finalproject/raw/main/report.pdf)
 <br>
 
 # Lab setup
