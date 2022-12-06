@@ -1,15 +1,12 @@
 ---
-title: "PM566 Final Project"
+title: "Death Rates of Covid-19 by State"
 author: "Kim S"
 output: 
    pdf_document: default
    html_document: FALSE
 ---
 
-This is my PM566 Final Project website.
 
-Link to my pdf 
-<br>
 
 # Lab setup
 

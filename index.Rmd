@@ -1,5 +1,5 @@
 ---
-title: "Linking Report at Top"
+title: "Death Rates of Covid-19 by State"
 author: "Kim S"
 output: 
     html_document: 
@@ -9,7 +9,7 @@ output:
 
 This is my PM566 Final Project website.
 
-Link to my pdf:[report](https://github.com/ksiegmund/PM566-finalproject/blob/main/report.pdf) [download](https://github.com/ksiegmund/PM566-finalproject/raw/main/report.pdf)
+Link to my pdf: [report](https://github.com/ksiegmund/PM566-finalproject/blob/main/report.pdf)       [[download]](https://github.com/ksiegmund/PM566-finalproject/raw/main/report.pdf)
 <br>
 
 # Lab setup
